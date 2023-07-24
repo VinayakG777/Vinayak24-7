@@ -10,5 +10,9 @@ public class FirstClass {
 	{
 		System.out.println("secondMethod");
 	}
+		public void secondMethod()
+	{
+		System.out.println("secondMethod");
+	}
 	
 }
