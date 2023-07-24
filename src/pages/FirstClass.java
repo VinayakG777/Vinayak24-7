@@ -14,5 +14,9 @@ public class FirstClass {
 	{
 		System.out.println("secondMethod");
 	}
+		public void fourthMethod()
+		{
+			System.out.println("forthMethod");
+		}
 	
 }
