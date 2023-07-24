@@ -10,7 +10,7 @@ public class FirstClass {
 	{
 		System.out.println("secondMethod");
 	}
-		public void secondMethod()
+		public void ThirdMethod()
 	{
 		System.out.println("secondMethod");
 	}
